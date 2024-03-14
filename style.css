@@ -1,3 +1,42 @@
 body{
-    background-color: bisque;
+    background-color: rgb(33, 33, 33);
+    color: aliceblue;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    
+    font-family: "Angkor", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 2em;
+
+  }
+
+  p {
+    font-family: verdana;
+    font-size: 1.5em;
+    color: bisque;
+  }
+
+  h2{
+    font-size: 1.75em;
+    text-align: center;
+  }
+
+  a{
+    font-size: 1.5em;
+  }
+/** 
+aqui eu modifiquei apenas um titulo em especifico
+**/
+  #tit1{
+    color: red;
+  }
+
+  /**criando uma class no css**/
+
+.verde{
+    color: chartreuse;
 }
